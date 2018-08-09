@@ -30,8 +30,12 @@ Comment fonctionne le photobooth, c'est ici !
 
 
 
+
+
 * version raspbian, linux, python, bibliothèques codes, witty py soft
+
 * Mettre lien vers le photobooth.py (explication du code ou tout dans les commentaires ?)
+
 * dire de ne pas utiliser le même écran car on ne voit pas bien sur les côtés
 
 
