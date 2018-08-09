@@ -22,8 +22,8 @@ Comment fonctionne le photobooth, c'est ici !
 
 ### Eclairage
 
-3 bandeaux lumineux à led en forme de "U" et un plexiglas découpé en forme de "U" pour atténuer la lumière des leds.
-
+* trois bandeaux lumineux à led en forme de "U"  fixés sur une planche
+* un plexiglas découpé en forme de "U" pour atténuer la lumière des leds.
 => des photos visibles même dans une salle très sombre (par exemple une salle de danse) et n'aveugle pas quand on est juste en face (grâce au plexiglas)
 
 ![](https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg)
