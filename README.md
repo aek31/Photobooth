@@ -8,12 +8,11 @@ Vous trouverez une description détaillée de mon photooth pour que vous puissie
 * 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés
 * Lien vers dossier avec photos prises par le photobooth
 ### Fonctionnement
-Comment fonctionne le photobooth, c'est ici !
 
 * Schéma électrique + lumière + clé USB de tout le photobooth
 * expliquer comment on récupère lesphotos
 * A poser sur une une table
-### Numérique et logiciel
+### Tutorial d'installation du logiciel
 * Eléments nécessaires : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
 * Carte Wiring Pi :
   * Permet d'éteindre proprement le raspberry après l'appui sur un bouton poussoir
