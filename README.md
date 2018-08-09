@@ -22,16 +22,12 @@ Comment fonctionne le photobooth, c'est ici !
 
 ### Eclairage
 
-* Permet d'avoir des photos visibles même dans une salle très sombre (par exemple une salle de danse) n'aveugle pas quand on est juste en face => 3 bandeaux lumineux positionés en forme de U
-* Un plexi pour atténuer la lumière des leds => plexi découpé en forme de U
+3 bandeaux lumineux à led en forme de "U" et un plexiglas découpé en forme de "U" pour atténuer la lumière des leds.
+
+=> des photos visibles même dans une salle très sombre (par exemple une salle de danse) et n'aveugle pas quand on est juste en face (grâce au plexiglas)
 
 
 
-#### Source de lumière
-Un éclairage à led à 30 euros fera l'affaire.
-Par contre la lumière est trop puissante donc il a fallu trouver un moyen pour l'atténuer.
-
-#### Atténuer la lumière
 
 
 
