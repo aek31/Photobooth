@@ -5,6 +5,7 @@
 Vous trouverez une description détaillée de mon photooth pour que vous puissiez réaliser le votre ! :-)
 * Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
 * Mettre lien Youtube
+* 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés
 * Lien vers dossier avec photos prises par le photobooth
 ### Fonctionnement
 Comment fonctionne le photobooth, c'est ici !
