@@ -15,10 +15,19 @@ Comment fonctionne le photobooth, c'est ici !
 * A poser sur une une table
 ### Numérique et logiciel
 * 5 éléments nécessaires : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
+* carte Wiring Pi :
+..* Permet d'éteindre proprement le raspberry après l'appui sur un bouton poussoir
+..* grâce à sa pile permet de sauvegarder l'heure et la date quand le raspberry est hors tension (intérêt : dater les photos)
 * Principale difficulté : suppertoser les décompte (3,2,1,...) à l'image filmée
 
 1. Télécharger Raspbian
-2. Mettre à jour
+2. Mettre à jour Raspbian 
+4. Installer bibliothèques
+5. Installer caméra 
+6. Installer logiciel Witty Pi
+6. Copier le logiciel
+7. Lancer le logciciel à chaque démarrage
+
 
 
 * version raspbian, linux, python, bibliothèques codes, witty py soft
