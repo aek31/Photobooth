@@ -55,7 +55,7 @@ Comment fonctionne le photobooth, c'est ici !
 
 ### 3. Matériel nécessaire
 
-[Matériel](https://github.com/Bricolo31/photobooth/edit/master/Liste_mat%C3%A9riel.md)
+[Matériel](https://github.com/Bricolo31/photobooth/edit/master/Liste_mat%C3%A9riel.md | width=44 )
 
 ### 4. Installation Raspberry/Camera/Gros bouton rouge
 
