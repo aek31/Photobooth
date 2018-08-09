@@ -21,7 +21,20 @@ Comment fonctionne le photobooth, c'est ici !
 * dire de ne pas utiliser le même écran car on ne voit pas bien sur les côtés
 
 ### Eclairage
-Voici comment faire un éclairage qui éclaire une salle très sombre et qui n'aveugle pas ... [c'est ici](https://github.com/Bricolo31/photobooth/blob/master/Eclairage.md)
+
+* Permet d'avoir des photos visibles même dans une salle très sombre (par exemple une salle de danse) n'aveugle pas quand on est juste en face => 3 bandeaux lumineux positionés en forme de U
+* Un plexi pour atténuer la lumière des leds => plexi découpé en forme de U
+
+
+
+#### Source de lumière
+Un éclairage à led à 30 euros fera l'affaire.
+Par contre la lumière est trop puissante donc il a fallu trouver un moyen pour l'atténuer.
+
+#### Atténuer la lumière
+
+
+
 
 
 ### Electrique 230V
