@@ -14,6 +14,8 @@ Comment fonctionne le photobooth, c'est ici !
 * expliquer comment on récupère lesphotos
 * A poser sur une une table
 ### Numérique et logiciel
+* 5 éléments : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
+
 
 * version raspbian, linux, python, bibliothèques codes, witty py soft
 * difficulté du logiciel : Le compteur 3, 2, 1 se supperpose à l'image filmée
