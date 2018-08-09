@@ -14,14 +14,24 @@ Comment fonctionne le photobooth, c'est ici !
 * expliquer comment on récupère lesphotos
 * A poser sur une une table
 ### Numérique et logiciel
-* 5 éléments : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
+* 5 éléments nécessaires : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
+* Principale difficulté : suppertoser les décompte (3,2,1,...) à l'image filmée
+
+1. Télécharger Raspbian
+2. Mettre à jour
 
 
 * version raspbian, linux, python, bibliothèques codes, witty py soft
-* difficulté du logiciel : Le compteur 3, 2, 1 se supperpose à l'image filmée
-* à améliorer : chargement photo par WIFI ou bloothooth, récupérer dernière photo sur son téléphone
 * Mettre lien vers le photobooth.py (explication du code ou tout dans les commentaires ?)
 * dire de ne pas utiliser le même écran car on ne voit pas bien sur les côtés
+
+
+
+
+* Points d'amélioration : chargement photo par WIFI ou bloothooth, récupérer dernière photo sur son téléphone
+
+
+
 
 ### Eclairage
 
