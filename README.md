@@ -14,10 +14,10 @@ Comment fonctionne le photobooth, c'est ici !
 * expliquer comment on récupère lesphotos
 * A poser sur une une table
 ### Numérique et logiciel
-* 5 éléments nécessaires : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
-* carte Wiring Pi :
+* Eléments nécessaires : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
+* Carte Wiring Pi :
   * Permet d'éteindre proprement le raspberry après l'appui sur un bouton poussoir
-  * grâce à sa pile permet de sauvegarder l'heure et la date quand le raspberry est hors tension (intérêt : dater les photos)
+  * Permet de sauvegarder l'heure et la date quand le raspberry est hors tension grâce à sa pile (intérêt : dater les photos)
 * Principale difficulté : suppertoser les décompte (3,2,1,...) à l'image filmée
 
 1. Télécharger Raspbian
