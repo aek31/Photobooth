@@ -31,7 +31,7 @@ n'aveugle pas quand on est juste en face (grâce au plexiglas)
 
 
 
-<img src="https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg" alt="drawing" height="200px"/>  | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/plexi.jpg" alt="drawing" height="200px"/>
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg" alt="drawing" height="200px"/>   <img src="https://github.com/aek31/Photobooth/blob/master/Photos/plexi.jpg" alt="drawing" height="200px"/>
 
 
 
