@@ -23,9 +23,9 @@ Comment fonctionne le photobooth, c'est ici !
 
 ### Eclairage
 
-* trois bandeaux à led en forme de "U"  fixés sur une planche
-* un plexiglas découpé en forme de "U" pour atténuer la lumière des leds
-* la planche avec les bandeaux à leds 20 cm derrère le plexiglas
+* Trois bandeaux à led en forme de "U"  fixés sur une planche
+* Un plexiglas découpé en forme de "U" pour atténuer la lumière des leds
+* La planche avec les bandeaux à leds 20 cm derrère le plexiglas
 
 #### Des photos visibles même dans une salle très sombre (par exemple une salle de danse) 
 Bandeaux à leds            |   Plexiglas
