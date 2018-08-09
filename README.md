@@ -26,6 +26,7 @@ Comment fonctionne le photobooth, c'est ici !
 
 => des photos visibles même dans une salle très sombre (par exemple une salle de danse) et n'aveugle pas quand on est juste en face (grâce au plexiglas)
 
+![](https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg)
 
 
 
@@ -66,5 +67,3 @@ Give the example
 
 5. Câblage bloc secteur
 6. Fabrication boîte
-
-![](https://github.com/Bricolo31/photobooth/blob/master/24May18_12:16:40.jpg)
