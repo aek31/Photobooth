@@ -28,7 +28,7 @@ Comment fonctionne le photobooth, c'est ici !
 ==> Des photos visibles même dans une salle très sombre (par exemple une salle de danse)
 n'aveugle pas quand on est juste en face (grâce au plexiglas)
 
-![](https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg | width=5)
+![](https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg)
 
 
 
