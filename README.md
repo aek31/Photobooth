@@ -1,4 +1,3 @@
-# readme
 # Photobooth
 
 !  Pour chaque parapraphe mettre une phrase d'intro et lien vers la page !
