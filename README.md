@@ -30,6 +30,7 @@ n'aveugle pas quand on est juste en face (grâce au plexiglas)
 
 ![](https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg)
 
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg" alt="drawing" width="200px"/>
 
 
 
