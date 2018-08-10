@@ -9,12 +9,13 @@ Vous trouverez une description détaillée de mon photooth pour que vous puissie
 * 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés
 * Lien vers dossier avec photos prises par le photobooth
 ### Fonctionnement
-==========
+------
 
 * Schéma électrique + lumière + clé USB de tout le photobooth
 * expliquer comment on récupère lesphotos
 * A poser sur une une table
 ### Tutorial d'installation du logiciel
+------
 * Eléments nécessaires : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
 * Carte Wiring Pi :
   * Permet d'éteindre proprement le raspberry après l'appui sur un bouton poussoir
@@ -48,6 +49,7 @@ Vous trouverez une description détaillée de mon photooth pour que vous puissie
 
 
 ### Eclairage
+------
 
 * Trois bandeaux à led en forme de "U"  fixés sur une planche
 * Un plexiglas découpé en forme de "U" pour atténuer la lumière des leds
@@ -67,8 +69,10 @@ Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
 
 
 ### Electrique 230V
+------
 
 ### Fabrication de la boîte
+------
 * L'écran Dell est un écran de récupération et est vraiment lourd ! 
 * La principale difficulté était donc de faire une boîte suffisament solide pour maintenir l'écran plat à la verticale
 * Du coup le photobooth est lourd, grand et difficile à manipuler, notamment pour le rentrer dans une voiture. J'ai donc mis deux poignées de chaque côté.
