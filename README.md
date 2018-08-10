@@ -71,7 +71,7 @@ Bandeaux à leds            |   Plexiglas
 * Du coup le photobooth est lourd, grand et difficile à manipuler, notamment pour le rentrer dans une voiture. J'ai donc mis deux poignées de chaque côté.
 * Voici quelques étapes de la construction :
 
-1) Découpe face avant            |   Plexiglas
+ 1- Découpe face avant     |   Plexiglas
 :-------------------------:|:-------------------------:
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/bandeau_leds.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/plexi.jpg" alt="drawing" height="250px"/>
 
