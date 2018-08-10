@@ -21,7 +21,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | Elements nécessaires (version/modèle)   |      Rôle     | 
 | :-------------------------------------  | :------------- | 
 | Raspberry Pi avec carte SD 16Go      |Contient le logiciel photobooth.py|
-| Pi Camera                        |Filme et prend les photos     |    
+| Pi Camera avec rallonge 1 mètre                       |Filme et prend les photos, rallonge nécessaire car le câble d'origine ne fait que 10 cm     |    
 | Carte Wiring Pi                  |- Eteindre proprement le raspberry après l'appui sur le bouton poussoir |     
 |                                  |- Sauvegarder l'heure et la date quand le raspberry est hors tension grâce à sa pile (intérêt : dater les photos)   |         
 | Ecran de PC (Dell + réf)         |Afficher la scène et voir la photo prise pendant quelques secondes     |     
@@ -42,9 +42,9 @@ sudo apt-get install
 sudo apt-get upgrade
 ```
  
-
-
-2. Mettre à jour Raspbian 
+ 
+2. Relier la Pi Camera au Raspberry Pi et suivre le tutorial suivant : https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/4 
+A ce stade vous avez une caméra qui fonctionne, vous êtes prêt à transformer votre raspberry en photobooth !
 4. Installer bibliothèques
 5. Installer caméra 
 6. Installer logiciel Witty Pi
