@@ -50,7 +50,7 @@ _______
 * Suivre le tutorial suivant pour tester que votre caméra fonctionne bien : https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/4 
 ##### A ce stade vous avez une caméra qui fonctionne, vous êtes prêt à transformer votre raspberry en photobooth !
 _______
-3. Câbler un bouton poussoir au raspberry Pi
+3. Câbler un bouton poussoir au raspberry Pi :
 
 _______
 
