@@ -30,7 +30,10 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 
 1. Installer Raspbian sur une carte SD
-1.. Télécharger Raspbian : https://www.raspberrypi.org/downloads/raspbian/
+* Télécharger Raspbian : https://www.raspberrypi.org/downloads/raspbian/
+* Copiez Raspbian sur une carte SD : https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+
+
 Cherchez un tutorial sur Internet suivant votre système d'exploitation (Windows, Linuw, Mac 
 2. Mettre à jour Raspbian 
 4. Installer bibliothèques
