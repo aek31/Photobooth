@@ -15,6 +15,18 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 * A poser sur une une table
 ### Tutorial d'installation du logiciel
 ------
+| Elements nécessaires (version)       |      Rôle     | 
+| :------------------- | :-------------: | 
+| Raspberry Pi         |        Contient le logiciel |
+| Pi Camera            |    Filme et prend les photos     |    
+| Carte Wiring Pi      |Eteindre proprement le raspberry après l'appui sur le bouton poussoir      |     
+|                       |Sauvegarder l'heure et la date quand le raspberry est hors tension grâce à sa pile (intérêt : dater les photos)      |         
+
+| Ecran                |     Centre      |     
+| Boutons              |     Centre      |       
+| Clé USB              |     St      |         
+
+
 * Eléments nécessaires : un raspberry Pi, une camera, une carte WiringPi, un écran et des boutons
 * Carte Wiring Pi :
   * Permet d'éteindre proprement le raspberry après l'appui sur un bouton poussoir
@@ -42,7 +54,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 
 
-* Points d'amélioration : chargement photo par WIFI ou bloothooth, récupérer dernière photo sur son téléphone
+* Points d'amélioration : chargement photo par WIFI ou bloothooth, récupérer dernière photo sur son téléphone, récupérer ses photos sous Windows ou Mac os
 
 
 
