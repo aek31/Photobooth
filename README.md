@@ -32,7 +32,13 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 1. Installation du Raspberry Pi
 * Télécharger Raspbian (système d'explitation du Raspberry Pi) sur votre PC : https://www.raspberrypi.org/downloads/raspbian/
 * Copiez Raspbian sur une carte SD : https://www.raspberrypi.org/documentation/installation/installing-images/README.md
-* Mettre la carte SD dans le raspberry PI, relier l'alimentation
+* Mettre la carte SD dans le raspberry PI et relier l'écran par le câble HDMI au raspberry
+* Brancher le câble d'alimentation du raspberry Pi, si tout fonctionne le système d'exploitation Raspbian démarrer à l'écran
+* Suivre les étapes d'installation (si besoin cherchez un tutorial pour vous aider)
+* Une fois l'installation terminée configurez le wifi pour avoir accès à internet : https://www.digikey.com/en/maker/blogs/raspberry-pi-3---how-to-connect-wi-fi-and-bluetooth
+* Mettre à jour Raspbian
+
+Inline `code` has `back-ticks around` it.
 
 2. Mettre à jour Raspbian 
 4. Installer bibliothèques
