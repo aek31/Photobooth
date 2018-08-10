@@ -38,6 +38,20 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 * Une fois l'installation terminée configurez le wifi pour avoir accès à internet : https://www.digikey.com/en/maker/blogs/raspberry-pi-3---how-to-connect-wi-fi-and-bluetooth
 * Mettre à jour Raspbian
 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+ 
+```python
+s = "Python syntax highlighting"
+print s
+```
+ 
+```
+No language indicated, so no syntax highlighting. 
+But let's throw in a <b>tag</b>.
+```
 Inline `code` has `back-ticks around` it.
 
 2. Mettre à jour Raspbian 
