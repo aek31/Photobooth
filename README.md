@@ -19,9 +19,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | :------------------- | :------------- | 
 | Raspberry Pi         |Contient le logiciel |
 | Pi Camera            |    Filme et prend les photos     |    
-| Carte Wiring Pi      |Eteindre proprement le raspberry après l'appui sur le bouton poussoir  
-
-|     
+| Carte Wiring Pi      |Eteindre proprement le raspberry après l'appui sur le bouton poussoir |     
 |                       |Sauvegarder l'heure et la date quand le raspberry est hors tension grâce à sa pile (intérêt : dater les photos)      |         
 | Ecran                |     Centre      |     
 | Boutons              |     Centre      |       
