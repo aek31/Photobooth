@@ -37,8 +37,6 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 * Suivre les étapes d'installation (si besoin cherchez un tutorial pour vous aider)
 * Une fois l'installation terminée configurez le wifi pour avoir accès à internet : https://www.digikey.com/en/maker/blogs/raspberry-pi-3---how-to-connect-wi-fi-and-bluetooth
 * Mettre à jour Raspbian :  
-
-Ouvrez un terminal et tapez les commandes suivantes :
 ```
 sudo apt-get install
 sudo apt-get upgrade
