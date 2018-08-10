@@ -69,10 +69,14 @@ Bandeaux à leds            |   Plexiglas
 * L'écran Dell est un écran de récupération et est vraiment lourd ! 
 * La principale difficulté était donc de faire une boîte suffisament solide pour maintenir l'écran plat à la verticale
 * Du coup le photobooth est lourd, grand et difficile à manipuler, notamment pour le rentrer dans une voiture. J'ai donc mis deux poignées de chaque côté.
+
+
 * Voici quelques étapes de la construction :
 
 
 
+Etapes de la construction :    
+:-------------------------:|:-------------------------:|:-------------------------:
 
 1- Mesures trous face avant    |   2- Découpe avant  |   3- Fixation écran
 :-------------------------:|:-------------------------:|:-------------------------:
