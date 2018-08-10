@@ -71,10 +71,10 @@ Bandeaux à leds            |   Plexiglas
 * Du coup le photobooth est lourd, grand et difficile à manipuler, notamment pour le rentrer dans une voiture. J'ai donc mis deux poignées de chaque côté.
 * Voici quelques étapes de la construction :
 
-1- Mesures face avant     |   2- Découpe face avant
-:-------------------------:|:-------------------------:
-<img src="https://github.com/aek31/Photobooth/blob/master/Photos/position_face_avant.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/decoupe_face_avant.jpg" alt="drawing" height="250px"/>
-1- Système de fixation écran     |   2- Découpe face avant
+1- Mesures face avant     |   2- Découpe face avant  |   3- Système fixation écran
+:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/position_face_avant.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/decoupe_face_avant.jpg" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/3fixation_ecran1.jpg" alt="drawing" height="250px"/> 
+3- Système de fixation écran     |   2- Découpe face avant
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/3fixation_ecran1.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/decoupe_face_avant.jpg" alt="drawing" height="250px"/>
 
 
