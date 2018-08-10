@@ -49,7 +49,7 @@ Vous trouverez une description détaillée de mon photooth pour que vous puissie
 
 * Trois bandeaux à led en forme de "U"  fixés sur une planche
 * Un plexiglas découpé en forme de "U" pour atténuer la lumière des leds
-* La planche avec les bandeaux à leds 20 cm derrère le plexiglas
+* La planche avec les bandeaux à leds 20 cm derrère le plexiglas (trop proche ca aveugle, trop loin ca n'éclaire pas assez)
 * Outils utilisés : dremmel avec type de lame pour découpe du plexiglas
 
 #### Des photos visibles même dans une salle très sombre (par exemple une salle de danse) 
