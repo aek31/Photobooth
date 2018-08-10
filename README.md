@@ -42,7 +42,7 @@ sudo apt-get install
 sudo apt-get upgrade
 ```
 _______
- 2. Faire fonctionner la pi Camera : 
+ 2. Faire fonctionner la pi Camera avec sa ralonge : 
 * Déclipseer vers le haut le conecteur de la pi Camera pour enlevé le câble d'origine
 * Inséré le nouveau câble de 1 mètre puis clipsé vers le bas le connecteur de la pi Camera pour fixer le câble
 * Déclipsé le connecteur du raspberry pi puis insérer le câble de la pi Camera
@@ -50,6 +50,10 @@ _______
 * Suivre le tutorial suivant pour tester que votre caméra fonctionne bien : https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/4 
 ##### A ce stade vous avez une caméra qui fonctionne, vous êtes prêt à transformer votre raspberry en photobooth !
 _______
+3. Câbler un bouton poussoir au raspberry Pi
+
+_______
+
 4. Installer bibliothèques
 5. Installer caméra 
 6. Installer logiciel Witty Pi
