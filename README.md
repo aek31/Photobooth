@@ -28,7 +28,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | Gros bouton rouge                |Un appui est le décompte commence      |       
 | Clé USB  32Go                        |Les photos sont stockées sur une clé USB      | 
 
-
+_______
 1. Installation du Raspberry Pi
 * Télécharger Raspbian (système d'explitation du Raspberry Pi) sur votre PC : https://www.raspberrypi.org/downloads/raspbian/
 * Copiez Raspbian sur une carte SD : https://www.raspberrypi.org/documentation/installation/installing-images/README.md
