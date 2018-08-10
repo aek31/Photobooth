@@ -75,7 +75,6 @@ Bandeaux à leds            |   Plexiglas
 :-------------------------:|:-------------------------:
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/position_face_avant.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/decoupe_face_avant.jpg" alt="drawing" height="250px"/>
 1- Mesures face avant     |   2- Découpe face avant
-:-------------------------:|:-------------------------:
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/position_face_avant.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/decoupe_face_avant.jpg" alt="drawing" height="250px"/>
 
 
