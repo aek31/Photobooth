@@ -9,6 +9,7 @@ Vous trouverez une description détaillée de mon photooth pour que vous puissie
 * 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés
 * Lien vers dossier avec photos prises par le photobooth
 ### Fonctionnement
+==========
 
 * Schéma électrique + lumière + clé USB de tout le photobooth
 * expliquer comment on récupère lesphotos
