@@ -16,7 +16,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 ### Tutorial d'installation du logiciel
 ------
 | Elements nécessaires (version)       |      Rôle     | 
-| :------------------- | :-------------: | 
+| :------------------- | :------------- | 
 | Raspberry Pi         |Contient le logiciel |
 | Pi Camera            |    Filme et prend les photos     |    
 | Carte Wiring Pi      |Eteindre proprement le raspberry après l'appui sur le bouton poussoir      |     
