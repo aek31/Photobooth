@@ -74,7 +74,7 @@ Bandeaux à leds            |   Plexiglas
 
 
 
-1- Mesures face avant (plexi + écran + bouton)   |   2- Découpe face avant  |   3- Système fixation écran
+1- Mesures face avant (plexi + écran + bouton)   |   2- Découpe avant  |   3- Fixation écran
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/position_face_avant.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/decoupe_face_avant.jpg" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/3fixation_ecran1.jpg" alt="drawing" height="250px"/> 
 
