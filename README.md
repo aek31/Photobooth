@@ -13,21 +13,25 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 * Schéma électrique + lumière + clé USB de tout le photobooth
 * expliquer comment on récupère lesphotos
 * A poser sur une une table
+* Principale difficulté : suppertoser les décompte (3,2,1,...) à l'image filmée
+
+
 ### Tutorial d'installation du logiciel
 ------
 | Elements nécessaires (version/modèle)   |      Rôle     | 
 | :-------------------------------------  | :------------- | 
-| Raspberry Pi                     |Contient le logiciel photobooth.py|
+| Raspberry Pi avec carte SD 16Go      |Contient le logiciel photobooth.py|
 | Pi Camera                        |Filme et prend les photos     |    
 | Carte Wiring Pi                  |- Eteindre proprement le raspberry après l'appui sur le bouton poussoir |     
 |                                  |- Sauvegarder l'heure et la date quand le raspberry est hors tension grâce à sa pile (intérêt : dater les photos)   |         
-| Ecran de PC (Dell + réf)                     |Afficher la scène et voir la photo prise pendant quelques secondes     |     
+| Ecran de PC (Dell + réf)         |Afficher la scène et voir la photo prise pendant quelques secondes     |     
 | Gros bouton rouge                |Un appui est le décompte commence      |       
-| Clé USB                          |Les photos sont stockées sur une clé USB      | 
+| Clé USB  32Go                        |Les photos sont stockées sur une clé USB      | 
 
-* Principale difficulté : suppertoser les décompte (3,2,1,...) à l'image filmée
 
-1. Télécharger Raspbian
+1. Installer Raspbian sur une carte SD
+1.. Télécharger Raspbian : https://www.raspberrypi.org/downloads/raspbian/
+Cherchez un tutorial sur Internet suivant votre système d'exploitation (Windows, Linuw, Mac 
 2. Mettre à jour Raspbian 
 4. Installer bibliothèques
 5. Installer caméra 
