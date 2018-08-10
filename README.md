@@ -50,6 +50,7 @@ Vous trouverez une description détaillée de mon photooth pour que vous puissie
 * Trois bandeaux à led en forme de "U"  fixés sur une planche
 * Un plexiglas découpé en forme de "U" pour atténuer la lumière des leds
 * La planche avec les bandeaux à leds 20 cm derrère le plexiglas
+* Outils utilisés : dremmel avec type de lame pour découpe du plexiglas
 
 #### Des photos visibles même dans une salle très sombre (par exemple une salle de danse) 
 Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
@@ -69,6 +70,7 @@ Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
 * L'écran Dell est un écran de récupération et est vraiment lourd ! 
 * La principale difficulté était donc de faire une boîte suffisament solide pour maintenir l'écran plat à la verticale
 * Du coup le photobooth est lourd, grand et difficile à manipuler, notamment pour le rentrer dans une voiture. J'ai donc mis deux poignées de chaque côté.
+* Outils utilisés : scie sauteuse, scie, appareil pour augmenter profondeur trous, cales, ...
 
 
 
