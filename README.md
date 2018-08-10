@@ -29,12 +29,11 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | Clé USB  32Go                        |Les photos sont stockées sur une clé USB      | 
 
 
-1. Installer Raspbian sur une carte SD
-* Télécharger Raspbian : https://www.raspberrypi.org/downloads/raspbian/
+1. Installation du Raspberry Pi
+* Télécharger Raspbian (système d'explitation du Raspberry Pi) sur votre PC : https://www.raspberrypi.org/downloads/raspbian/
 * Copiez Raspbian sur une carte SD : https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+* Mettre la carte SD dans le raspberry PI, relier l'alimentation
 
-
-Cherchez un tutorial sur Internet suivant votre système d'exploitation (Windows, Linuw, Mac 
 2. Mettre à jour Raspbian 
 4. Installer bibliothèques
 5. Installer caméra 
