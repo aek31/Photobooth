@@ -70,6 +70,7 @@ Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
 * L'écran Dell est un écran de récupération et est vraiment lourd ! 
 * La principale difficulté était donc de faire une boîte suffisament solide pour maintenir l'écran plat à la verticale
 * Du coup le photobooth est lourd, grand et difficile à manipuler, notamment pour le rentrer dans une voiture. J'ai donc mis deux poignées de chaque côté.
+* Pour fixer l'écran deux barres fixées par quatre équerres et deux équerres en haut et bas pour maintenir l'écran fixe dans toutes les positions
 * Outils utilisés : scie sauteuse, scie, appareil pour augmenter profondeur trous, cales, ...
 
 
