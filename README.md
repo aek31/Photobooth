@@ -66,13 +66,14 @@ Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
 
 ### Electrique 230V
 
-### Mécanique
+### Fabrication de la boîte
 * L'écran Dell est un écran de récupération et est vraiment lourd ! 
 * La principale difficulté était donc de faire une boîte suffisament solide pour maintenir l'écran plat à la verticale
 * Du coup le photobooth est lourd, grand et difficile à manipuler, notamment pour le rentrer dans une voiture. J'ai donc mis deux poignées de chaque côté.
 * Pour fixer l'écran deux barres fixées par quatre équerres et deux équerres en haut et bas pour maintenir l'écran fixe dans toutes les positions
 * Outils utilisés : scie sauteuse, scie, appareil pour augmenter profondeur trous, cales, ...
-
+* Expliquer la peinture, d'abord sosu-couche puis peinture à bois
+* Normalement 3 couches mais par manque de temps je n'en ai mis qu'une seule
 
 
 * Voici quelques étapes de la construction :
@@ -90,33 +91,9 @@ Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
 
 
 
-### Matériel
-* expliquer la peinture, d'abord sosu-couche puis peinture à bois
-* Normalement 3 couches mais par manque de temps je n'en ai mis qu'une seule
 
------------------------------
-### 1. Présentation 
-
-* Message personnalisé au moment de la prise de la photo
-
-### 2. En action !
-* photo 1, photo 2
-* lien vers la vidéo youtube
-* plus de photos à travers ce lien
-
-### 3. Matériel nécessaire
-
-[Matériel](https://github.com/Bricolo31/photobooth/edit/master/Liste_mat%C3%A9riel.md)
-
-### 4. Installation Raspberry/Camera/Gros bouton rouge
-
-### 5. Fabrication panneau lumineux
-![](https://github.com/aek31/Photobooth/blob/master/Photos/IMG_20180225_144721_1.jpg)
 
 
 ```
 Give the example
 ```
-
-5. Câblage bloc secteur
-6. Fabrication boîte
