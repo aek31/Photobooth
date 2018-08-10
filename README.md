@@ -21,7 +21,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | Pi Camera                        |Filme et prend les photos     |    
 | Carte Wiring Pi                  |- Eteindre proprement le raspberry après l'appui sur le bouton poussoir |     
 |                                  |- Sauvegarder l'heure et la date quand le raspberry est hors tension grâce à sa pile (intérêt : dater les photos)   |         
-| Ecran de PC                      |Afficher la scène et voir la photo prise pendant quelques secondes     |     
+| Ecran de PC (Dell + réf)                     |Afficher la scène et voir la photo prise pendant quelques secondes     |     
 | Gros bouton rouge                |Un appui est le décompte commence      |       
 | Clé USB                          |Les photos sont stockées sur une clé USB      | 
 
