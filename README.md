@@ -80,6 +80,7 @@ Bandeaux à leds            |   Plexiglas
 
 
 4- Face arrière + porte     |   5- Ajout des côtés  |   6- Ajout face avant
+:-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/5porte.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/7côtés.jpg" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/8ajout_face_avant.jpg" alt="drawing" height="250px"/> 
 
 
