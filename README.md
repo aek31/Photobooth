@@ -44,7 +44,7 @@ sudo apt-get upgrade
  
  
 2. Relier la Pi Camera au Raspberry Pi et suivre le tutorial suivant : https://projects.raspberrypi.org/en/projects/getting-started-with-picamera/4 
-A ce stade vous avez une caméra qui fonctionne, vous êtes prêt à transformer votre raspberry en photobooth !
+##### A ce stade vous avez une caméra qui fonctionne, vous êtes prêt à transformer votre raspberry en photobooth !
 4. Installer bibliothèques
 5. Installer caméra 
 6. Installer logiciel Witty Pi
