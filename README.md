@@ -28,6 +28,11 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | Gros bouton rouge                |Un appui est le décompte commence      |       
 | Clé USB  32Go                        |Les photos sont stockées sur une clé USB      | 
 
+
+| Méthode   |      Rôle     | 
+| :-------------------------------------  | :------------- | 
+
+
 _______
 1. Installation du Raspberry Pi
 * Télécharger Raspbian (système d'explitation du Raspberry Pi) sur votre PC : https://www.raspberrypi.org/downloads/raspbian/
@@ -51,9 +56,11 @@ _______
 ##### A ce stade vous avez une caméra qui fonctionne, vous êtes prêt à transformer votre raspberry en photobooth !
 _______
 3. Câbler un bouton poussoir au raspberry Pi :
+* relier les deux broches d'un bouton poussoir aux broches suivantes du raspberry : GPIO17 (broche 11) et GND (broche 6)
+_______
+4. Installer la carte Witty Pi
 
 _______
-
 4. Installer bibliothèques
 5. Installer caméra 
 6. Installer logiciel Witty Pi
