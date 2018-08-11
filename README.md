@@ -29,8 +29,12 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | Clé USB  32Go                        |Les photos sont stockées sur une clé USB      | 
 
 
-| Méthode   |      Rôle     | 
-| :-------------------------------------  | :------------- | 
+Méthode  :    
+1° sur un table faire toute fonctionner    
+2° fabriquer la boîte du photobooth
+3° tout intégrer
+
+
 
 
 _______
