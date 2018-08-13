@@ -22,6 +22,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | Le schéma électrique du photobooth est ici     |
 | On récupère les photos en récupérant la clé USB dans le photobooth     |
 | Des photos prises par le photobooth c'est ici    |
+| Fonctionne dans une pièce très sombre, pas besoin d'éclairage externe    |
 
 
 | SOMMAIRE |     
