@@ -113,7 +113,7 @@ Bandeau à leds            |   Plexiglas découpé et fixé par des vis
 
 Bandeau à l'intérieur du photobooth           |   
 :-------------------------:|
-<img src="https://github.com/aek31/Photobooth/blob/master/Photos/eclairage_dedans.jpg" alt="drawing" height="250px"/> 
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/eclairage_dedans.JPG" alt="drawing" height="250px"/> 
 
 
 
