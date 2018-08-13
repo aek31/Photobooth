@@ -12,8 +12,12 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 
 
+
+4- Face arrière + porte     |   5- Ajout des côtés  |   6- Ajout face avant |   7- Peinture
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="https://github.com/aek31/Photobooth/blob/master/Photos/TROIS.JPG" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/DEUX.JPG" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/UN.JPG" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/ZERO.JPG" alt="drawing" height="250px"/> 
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/trois.JPG" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/deux.JPG" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/un.JPG" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/zero.JPG" alt="drawing" height="250px"/> 
+
+
 
 
 * Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
