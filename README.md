@@ -135,7 +135,7 @@ Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
 
 
 
-1- Mesures trous face avant    |   2- Découpe avant  |   3- Fixation écran
+1- Préparation découpe face avant    |   2- Découpe avant  |   3- Fixation écran
 :-------------------------:|:-------------------------:|:-------------------------:
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/position_face_avant.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/decoupe_face_avant.jpg" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/3fixation_ecran1.jpg" alt="drawing" height="250px"/> 
 
