@@ -106,10 +106,14 @@ _______
 * Outils utilisés : dremmel avec type de lame pour découpe du plexiglas
 
 #### Des photos visibles même dans une salle très sombre (par exemple une salle de danse) 
-Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
+Bandeau à leds            |   Plexiglas découpé et fixé par des vis
 :-------------------------:|:-------------------------:
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/bandeau_leds.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/plexi.jpg" alt="drawing" height="250px"/>
 
+
+Bandeau à l'intérieur du photobooth           |   
+:-------------------------:|
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/eclairage_dedans.jpg" alt="drawing" height="250px"/> 
 
 
 
