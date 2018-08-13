@@ -1,7 +1,6 @@
 # Photobooth
 
-### Présentation
-------
+
 
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/trois.JPG" alt="drawing" height="150px"/>           <img src="https://github.com/aek31/Photobooth/blob/master/Photos/deux.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/un.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/zero.JPG" alt="drawing" height="150px"/> 
 
@@ -28,8 +27,8 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | SOMMAIRE |     
 | :-------------------------------------  |  
 | 2- Tutorial d'installation de la partie numérique     |
-| 3- Eclairage      |
-| 4- Boîte      |
+| 3- Fabrication de l'éclairage      |
+| 4- Fabrication de la boîte      |
 
 
 
