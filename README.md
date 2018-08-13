@@ -145,7 +145,7 @@ Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/5porte.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/7côtés.jpg" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/8ajout_face_avant.jpg" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/9_peinture_avant.jpg" alt="drawing" height="250px"/> 
 
 
-8- 2 poignées de chaque côté pour installer le photobooth et 5 surrélévations    |   9- Les surrélévations protègent les boutons quand il est posé sur le dos (dans une voiture)  |   
+8- Deux améliorations pour le rentrer dans une voiture : quatre poignées pour le soulever à l'horizontale et cinq surrélévations    |   9- Les surrélévations protègent les boutons quand il est posé sur le dos (dans une voiture)  |   
 :-------------------------:|:-------------------------:|
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/poignées.JPG" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/protection_voiture.JPG" alt="drawing" height="250px"/> 
 
