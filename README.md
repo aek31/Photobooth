@@ -26,10 +26,10 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 | SOMMAIRE |     
 | :-------------------------------------  |  
-| 2- Tutorial d'installation de la partie numérique     |
-| 3- Fabrication de l'éclairage      |
-| 4- Câblage alimentation secteur      |
-| 5- Fabrication de la boîte      |
+| 1- Tutorial d'installation de la partie numérique     |
+| 2- Fabrication de l'éclairage      |
+| 3- Câblage alimentation secteur      |
+| 4- Fabrication de la boîte      |
 
 
 
