@@ -145,6 +145,10 @@ Bandeaux à leds            |   Plexiglas découpé et fixé par des vis
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/5porte.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/7côtés.jpg" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/8ajout_face_avant.jpg" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/9_peinture_avant.jpg" alt="drawing" height="250px"/> 
 
 
+4- 2 poignées de chaque côté pour le      |   5- Ajout des côtés  |   
+:-------------------------:|:-------------------------:|
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/5porte.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/7côtés.jpg" alt="drawing" height="250px"/> 
+
 
 | Titre 1       |     Titre 2     |        Titre 3 |
 | :------------ | :-------------: | -------------: |
