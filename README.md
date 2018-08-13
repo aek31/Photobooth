@@ -18,9 +18,15 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | 4- Intégrer le numérique dans la boîte      |
 
 
+| ELEMENTS IMPORTANTS|     
+| :-------------------------------------  |  
+| Le schéma électrique du photobooth est ici     |
+| On récupère les photos en récupérant la clé USB dans le photobooth     |
+| Des photos prises par le photobooth c'est ici    |
+
+
 | SOMMAIRE |     
 | :-------------------------------------  |  
-| 1- Schéma interne     |
 | 2- Tutorial d'installation de la partie numérique     |
 | 3- Eclairage      |
 | 4- Boîte      |
@@ -31,14 +37,9 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 * Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
 * Mettre lien Youtube
 * 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés
-* Lien vers dossier avec photos prises par le photobooth
-### Fonctionnement
-------
 
-* Schéma électrique + lumière + clé USB de tout le photobooth
-* expliquer comment on récupère lesphotos
-* A poser sur une une table
-* Principale difficulté : suppertoser les décompte (3,2,1,...) à l'image filmée
+
+
 
 
 ### Tutorial d'installation de la partie numérique
