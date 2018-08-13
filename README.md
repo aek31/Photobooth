@@ -11,6 +11,11 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | 3- Fabriquer la boîte et tout intégrer :-)     |
 
 
+
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/TROIS.JPG" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/DEUX.JPG" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/UN.JPG" alt="drawing" height="250px"/> | <img src="https://github.com/aek31/Photobooth/blob/master/Photos/ZERO.JPG" alt="drawing" height="250px"/> 
+
+
 * Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
 * Mettre lien Youtube
 * 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés
