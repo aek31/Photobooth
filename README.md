@@ -2,18 +2,20 @@
 
 ### Présentation
 ------
+
+<img src="https://github.com/aek31/Photobooth/blob/master/Photos/trois.JPG" alt="drawing" height="150px"/>           <img src="https://github.com/aek31/Photobooth/blob/master/Photos/deux.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/un.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/zero.JPG" alt="drawing" height="150px"/> 
+
+
 Vous voulez faire votre propre photobooth, cette page est faite pour vous !
+
+
 
 | Ma méthode pour réaliser votre photobooth  |     
 | :-------------------------------------  |  
 | 1- Rassembler tout le matériel numérique (raspberry, écran de PC, carte wiring Pi, ...)     |
 | 2- Faire fonctionner tout ce matériel numérique sur table     |
-| 3- Fabriquer la boîte et tout intégrer :-)     |
-
-
-<img src="https://github.com/aek31/Photobooth/blob/master/Photos/trois.JPG" alt="drawing" height="150px"/>           <img src="https://github.com/aek31/Photobooth/blob/master/Photos/deux.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/un.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/zero.JPG" alt="drawing" height="150px"/> 
-
-
+| 3- Fabriquer la boîte et l'éclairage      |
+| 4- Intégrer le numérique dans la boîte      |
 
 
 * Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
