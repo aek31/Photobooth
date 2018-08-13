@@ -3,6 +3,14 @@
 ### Présentation
 ------
 Vous voulez faire votre propre photobooth, cette page est faite pour vous !
+
+| Ma méthode pour réaliser votre photobooth  |     
+| :-------------------------------------  |  
+| 1- Rassembler tout le matériel numérique (raspberry, écran de PC, carte wiring Pi, ...)     |
+| 2- Faire fonctionner tout ce matériel numérique sur table     |
+| 3- Fabriquer la boîte et tout intégrer :-)     |
+
+
 * Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
 * Mettre lien Youtube
 * 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés
