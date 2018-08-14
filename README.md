@@ -1,7 +1,12 @@
 # Photobooth
 
 A vérifier :
-* witty pi 2 indique broche 11 utilisée, et le programmme aussi avec le raspberry, normal ? Modifier le schéma électrique en conséquence
+* witty pi 2 indique broche 11 utilisée, et le programmme aussi avec le raspberry, normal ? Modifier le schéma électrique et le tutorial partie numérique en conséquence
+* rajouter clé USB sur le schéma électrique
+
+
+
+
 
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/trois.JPG" alt="drawing" height="150px"/>           <img src="https://github.com/aek31/Photobooth/blob/master/Photos/deux.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/un.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/zero.JPG" alt="drawing" height="150px"/> 
 
