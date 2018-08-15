@@ -15,12 +15,6 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 
 
-| Ma méthode pour réaliser votre photobooth  |     
-| :-------------------------------------  |  
-| 1- Rassembler tout le matériel numérique (raspberry, écran de PC, carte wiring Pi, ...)     |
-| 2- Faire fonctionner tout ce matériel numérique sur table     |
-| 3- Fabriquer la boîte et l'éclairage      |
-| 4- Intégrer le numérique dans la boîte      |
 
 
 | ELEMENTS IMPORTANTS|     
@@ -37,6 +31,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | 2- Fabrication de l'éclairage      |
 | 3- Câblage alimentation secteur      |
 | 4- Fabrication de la boîte      |
+| 4- Ma méthode étape par étape      |
 
 
 
@@ -145,7 +140,7 @@ Bandeau à l'intérieur du photobooth           |
 
 
 
-### Electrique 230V
+### Câblage électrique
 ------
 
 ### Fabrication de la boîte
@@ -176,6 +171,20 @@ Bandeau à l'intérieur du photobooth           |
 8- Deux améliorations pour le rentrer dans une voiture : quatre poignées pour le soulever à l'horizontale et cinq surrélévations    |   9- Les surrélévations protègent les boutons quand il est posé sur le dos (dans une voiture)  |   
 :-------------------------:|:-------------------------:|
 <img src="https://github.com/aek31/Photobooth/blob/master/Photos/poignées.JPG" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/protection_voiture.JPG" alt="drawing" height="250px"/> 
+
+
+### Ma méthode étape par étape 
+------
+| Ma méthode pour réaliser votre photobooth étape par étape  |     
+| :-------------------------------------  |  
+| 1- Rassembler tout le matériel numérique (raspberry, écran de PC, carte wiring Pi, ...)     |
+| 2- Faire fonctionner tout ce matériel numérique sur table     |
+| 4- Sur une table faire fonctionner l'éclairage et voir le résultat en mettant la caméra et le plexiglas par desssus      |
+| 5- Fabriquer la boîte et découper le pléxiglas      |
+| 6- Intégrer le numérique dans la boîte      |
+
+
+
 
 
 | Titre 1       |     Titre 2     |        Titre 3 |
