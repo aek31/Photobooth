@@ -142,6 +142,12 @@ Bandeau à l'intérieur du photobooth           |
 
 ### Câblage électrique
 ------
+#### Partie secteur
+* Mettre photo vue de dessus avec capôt boîte de dérivation ouverte
+* Attention : prendre bouton et voyant qui supporte 230V et 1A minimum
+* Règle : pouvoir enlever chaque élément sans dessouder dans la boîte donc des connecteurs et dominos
+* prendre photo domini porte gauche et connecteurs x 2 proche de la boîte
+
 
 ### Fabrication de la boîte
 ------
