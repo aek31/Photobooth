@@ -6,7 +6,8 @@ from gpiozero import Button
 import os, sys, time
 
 
-# ATTENTION : CLE USB A FORMATTER EN EXT4
+# ATTENTION : CLE USB A FORMATTER EN EXT4 + créer dossier "Photobooth" dans la racine du dossier (il faut 
+# media/pi/cle_photos/Photobooth/ pour que ca fonctionne ou sinon renomer cette ligne pour que ca corresponde à la clé USB
 
 
 button = Button(17)  # Bouton relie au GPIO 17
