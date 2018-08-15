@@ -3,6 +3,7 @@
 A vérifier :
 * witty pi 2 indique broche 11 utilisée, et le programmme aussi avec le raspberry, normal ? Modifier le schéma électrique et le tutorial partie numérique en conséquence
 * rajouter clé USB sur le schéma électrique
+* pour modifier programme : lancer photobooth, brancher un clavier, taper 'q' sur le clavier, le script se ferme et on a accès au bureau du Raspberry.
 
 
 
