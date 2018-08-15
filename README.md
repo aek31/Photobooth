@@ -17,12 +17,11 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 
 
-| ELEMENTS IMPORTANTS|     
+| POINTS CLES DU PHOTOBOOTH|     
 | :-------------------------------------  |  
-| Le schéma électrique du photobooth est ici     |
 | On récupère les photos en récupérant la clé USB dans le photobooth     |
-| Des photos prises par le photobooth c'est ici    |
-| Fonctionne dans une pièce très sombre, pas besoin d'éclairage externe    |
+| Bonne qualité des des photos prises, voir ici des photos prises en mariage ou anniversaire    |
+| Fonctionne dans une pièce très sombre comme une salle de danse, pas besoin d'éclairage externe    |
 
 
 | SOMMAIRE |     
@@ -142,9 +141,15 @@ Bandeau à l'intérieur du photobooth           |
 
 ### Câblage électrique
 ------
-#### Partie secteur
+Voir le schéma électrique ici 
+
+#### Partie secteur (partie dangereuse !)
 * Mettre photo vue de dessus avec capôt boîte de dérivation ouverte
 * Attention : prendre bouton et voyant qui supporte 230V et 1A minimum
+* En ouvrant la boîte aucun cuivre avec du 230V ne peut être touché donc utilisation de beaucoup de gaine thermo, boîte de dérivation, ...
+* Photos des différents éléments protecteurs
+
+#### Partie 12V et 5V
 * Règle : pouvoir enlever chaque élément sans dessouder dans la boîte donc des connecteurs et dominos
 * prendre photo domini porte gauche et connecteurs x 2 proche de la boîte
 
