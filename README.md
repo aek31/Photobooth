@@ -18,7 +18,8 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 
 | POINTS CLES DU PHOTOBOOTH|     
-| :-------------------------------------  |  
+| :-------------------------------------  | 
+| Monobloc : juste un câble secteur à brancher et tout fonctionne !    |
 | On récupère les photos en récupérant la clé USB dans le photobooth     |
 | Bonne qualité des des photos prises, voir ici des photos prises en mariage ou anniversaire    |
 | Fonctionne dans une pièce très sombre comme une salle de danse, pas besoin d'éclairage externe    |
