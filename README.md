@@ -55,6 +55,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 | Ecran de PC (Dell + réf)         |Afficher la scène et voir la photo prise pendant quelques secondes     |     
 | Gros bouton rouge                |Un appui est le décompte commence      |       
 | Clé USB  32Go (format Ext4)                     |Les photos sont stockées sur une clé USB (attention : il faudra un ordinateur sous linux pour pouvoir les lire)     | 
+| Ordinateur sous linux            | Nécessaire pour pouvoir lire les photos de la clé USB avec toutes les photos. Si vous n'en avez pas vous pouvez acheter un second raspberry pi   | 
 
 
 Méthode  :    
