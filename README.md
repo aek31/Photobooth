@@ -90,6 +90,8 @@ _______
 3. Câbler un bouton poussoir au raspberry Pi :
 * relier les deux broches d'un bouton poussoir aux broches suivantes du raspberry : GPIO17 (broche 11) et GND (broche 6)
 _______
+ATTENTION : est-ce qu'il faut télécharger le programme sous github pour être sur de toujours l'avoir ?
+
 4. Installer la carte Witty Pi
 * plugger la carte Witty Pi sur la carte Raspberry Pi
 * mettre la pile CR2032 sur la carte Witty Pi
@@ -98,10 +100,19 @@ _______
 * cliquer sur le bouton ON/OFF de la carte Witty Pi, le raspberry va démarrer comme d'habitude sur votre évran
 * ouvrir un terminal puis tapez :
 ```
-cd ~
-wget http://www.uugear.com/repo/WittyPi2/installWittyPi.sh
-sudo sh installWittyPi.sh
+pi@raspberrypi $ cd ~
+pi@raspberrypi ~ $ wget http://www.uugear.com/repo/WittyPi2/installWittyPi.sh
+pi@raspberrypi ~ $ sudo sh installWittyPi.sh
+pi@raspberrypi ~ $ cd wittyPi
+pi@raspberrypi ~ /wittyPi $ ls
+daemon.sh init.sh syncTime.sh runScript.sh utilities.sh wittyPi wittyPi.sh
 ```
+* Vérifiez qu'après la commande ls vous avez bien les 7 fichiers ci-dessus
+* Vérifiez que l'heure et la date du raspberry sont correctes, si ce n'est pas le cas réglez les. 
+* On va tranférer l'heure du raspberry pi sur la carte Wiring Pi, ouvrez un terminal et tapez :
+
+```
+pi@raspberrypi ~/wittyPi $ sudo ./wittyPi.sh 
 
 _______
 4. Installer bibliothèques
