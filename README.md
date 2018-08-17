@@ -128,6 +128,8 @@ _______
 _______
 4. Installer bibliothèques
 7. Lancer le logciciel à chaque démarrage
+8. Modifier le texe au moment de la prise de la photo
+9. Adaptez le programme à votre clé USB
 
 
 
