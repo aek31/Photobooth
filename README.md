@@ -108,11 +108,20 @@ pi@raspberrypi ~ /wittyPi $ ls
 daemon.sh init.sh syncTime.sh runScript.sh utilities.sh wittyPi wittyPi.sh
 ```
 * Vérifiez qu'après la commande ls vous avez bien les 7 fichiers ci-dessus
-* Vérifiez que l'heure et la date du raspberry sont correctes, si ce n'est pas le cas réglez les. 
+* Réglez l'heure et la date sur le raspberry
 * On va tranférer l'heure du raspberry pi sur la carte Wiring Pi, ouvrez un terminal et tapez :
 
 ```
 pi@raspberrypi ~/wittyPi $ sudo ./wittyPi.sh 
+```
+* Tapez le chiffre 1
+* Tapez le chiffre 8
+* Eteignez le raspberry Pi par l'interface
+* Appuez sur le bouton ON/OFF de la carte Wiring Pi, vérifier que l'heure et la date sont correctes à l'écran
+* Câbler un bouton poussoir sur les broches Switch et GND
+* Mettre photo
+* Désormais vous allumerez votre raspbeery à l'aide de ce bouton
+
 
 _______
 4. Installer bibliothèques
