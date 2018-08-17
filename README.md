@@ -17,14 +17,14 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 
 
-```
-POINTS CLES DU PHOTOBOOTH     
-* Monobloc : juste un câble secteur à brancher et tout fonctionne !    
-* On récupère les photos en récupérant la clé USB dans le photobooth     
-* Bonne qualité des photos, voir ici des photos prises en mariage et en anniversaire    
-* Fonctionne dans une pièce très sombre comme une salle de danse, pas besoin d'éclairage externe   
-* Personnalisation du texte affiché quand la photo est prise (ex : Chic Guinguette Chic -  30 ans), ce texte ne sera pas visible dans les photos finales   
-```
+
+| POINTS CLES DU PHOTOBOOTH|     
+| :-------------------------------------  | 
+| Monobloc : juste un câble secteur à brancher et tout fonctionne !    |
+| On récupère les photos en récupérant la clé USB dans le photobooth     |
+| Bonne qualité des photos, voir ici des photos prises en mariage et en anniversaire    |
+| Fonctionne dans une pièce très sombre comme une salle de danse, pas besoin d'éclairage externe    |
+| Personnalisation du texte affiché quand la photo est prise (ex : Chic Guinguette Chic -  30 ans), ce texte ne sera pas visible dans les photos finales    |
 
 | SOMMAIRE |     
 | :-------------------------------------  |  
@@ -68,7 +68,7 @@ Méthode  :
 _______
 1. Installation du Raspberry Pi
 * Télécharger Raspbian (système d'explitation du Raspberry Pi) sur votre PC : https://www.raspberrypi.org/downloads/raspbian/
-* Copiez Raspbian sur une carte SD : https://www.raspberrypi.org/documentation/installation/installing-images/README.md
+* Copiez Raspbian sur une carte SD (attention, choisissez la procédure adaptée à votre système d'exploitation) : https://www.raspberrypi.org/documentation/installation/installing-images/README.md
 * Mettre la carte SD dans le raspberry PI et relier l'écran par le câble HDMI au raspberry
 * Brancher le câble d'alimentation du raspberry Pi, si tout fonctionne le système d'exploitation Raspbian démarrer à l'écran
 * Suivre les étapes d'installation (si besoin cherchez un tutorial pour vous aider)
@@ -91,6 +91,17 @@ _______
 * relier les deux broches d'un bouton poussoir aux broches suivantes du raspberry : GPIO17 (broche 11) et GND (broche 6)
 _______
 4. Installer la carte Witty Pi
+* plugger la carte Witty Pi sur la carte Raspberry Pi
+* mettre la pile CR2032 sur la carte Witty Pi
+* laisser tous les cavaliers dans la position d'origine
+* mettre le câble d'alimentation du raspberry sur le port micro usb de la carte Witty Pi. Désormais c'est la carte Witty Pi qui alimentera le raspberry Pi.
+* cliquer sur le bouton ON/OFF de la carte Witty Pi, le raspberry va démarrer comme d'habitude sur votre évran
+* ouvrir un terminal puis tapez :
+```
+cd ~
+wget http://www.uugear.com/repo/WittyPi2/installWittyPi.sh
+sudo sh installWittyPi.sh
+```
 
 _______
 4. Installer bibliothèques
