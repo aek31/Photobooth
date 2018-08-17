@@ -18,13 +18,12 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 
 
 ```
-| POINTS CLES DU PHOTOBOOTH|     
-| :-------------------------------------  | 
-| Monobloc : juste un câble secteur à brancher et tout fonctionne !    |
-| On récupère les photos en récupérant la clé USB dans le photobooth     |
-| Bonne qualité des photos, voir ici des photos prises en mariage et en anniversaire    |
-| Fonctionne dans une pièce très sombre comme une salle de danse, pas besoin d'éclairage externe    |
-| Personnalisation du texte affiché quand la photo est prise (ex : Chic Guinguette Chic -  30 ans), ce texte ne sera pas visible dans les photos finales    |
+POINTS CLES DU PHOTOBOOTH     
+* Monobloc : juste un câble secteur à brancher et tout fonctionne !    
+* On récupère les photos en récupérant la clé USB dans le photobooth     
+* Bonne qualité des photos, voir ici des photos prises en mariage et en anniversaire    
+* Fonctionne dans une pièce très sombre comme une salle de danse, pas besoin d'éclairage externe   
+* Personnalisation du texte affiché quand la photo est prise (ex : Chic Guinguette Chic -  30 ans), ce texte ne sera pas visible dans les photos finales   
 ```
 
 | SOMMAIRE |     
