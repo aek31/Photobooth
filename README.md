@@ -124,10 +124,9 @@ pi@raspberrypi ~/wittyPi $ sudo ./wittyPi.sh
 
 
 _______
+5. Copiez le logiciel photobooth.py :
+_______
 4. Installer bibliothèques
-5. Installer caméra 
-6. Installer logiciel Witty Pi
-6. Copier le logiciel
 7. Lancer le logciciel à chaque démarrage
 
 
