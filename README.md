@@ -144,6 +144,10 @@ text = "Chic Guinguette Chic - 30 ans"
 * Remplacez "Chic Guinguette Chic -  30 ans" par le texte que vous voulez, par exemple "Mariage Clémentine et Patrick"
 
 _______
+5. Formater la clé USB
+* Pour que le programme puisse enregistrer sur votre clé USB il faut qu'elle soit au format EXT4
+* Mettre le tutoriel pour formater la clé USB en ext4
+_______
 5. Adaptez photobooth.py à votre clé USB
 * Branchez une clé USB au Raspberry Pi
 * Dans le code de photobooth.py trouvez les deux parties suivantes :
@@ -158,14 +162,42 @@ img = pygame.image.load(os.path.join('/media/pi/cle_photos/Photobooth/',variable
 
 * Remplacez dans les parties /media/pi/cle_photos/Photobooth/ par le chemin du répertoire de votre clé USB où vous souhaitez enregistrer vos photos
 
-
-
+_______
+6. Ecran noir
+* enlever l'écran noir.jpg du code et voir le résultat pour ensuite expliquer à quoi ca sert, si ca ne sert à rien alors l'enlever du code et ne pas en parler 
+* si ca sert mettre l'epxlication et copier l'écran noir du raspberry dans le github dans Photos
 
 _______
-7. Lancer le logciciel à chaque démarrage
-8. Modifier le texe au moment de la prise de la photo
-9. Adaptez le programme à votre clé USB
-10. Ecran noir
+7. Tester le programme photobooth.py 
+* Dans un terminal tapez :
+```
+ pi@raspberrypi $ cd ~
+ pi@raspberrypi ~ $ sudo python photobooth.py
+ ```
+ * Normalement tout fonctionne :-)
+
+_______
+8. Lancer le logciciel à chaque démarrage
+* Ouvrir un terminal pour créer le fichier suivant :
+```
+pi@raspberrypi ~ $ sudo nano /etc/xdg/autostart/autostart_photobooth.desktop
+```
+
+* Copier-coller le texte suivant dans le fichier ouvert avec nano :
+```
+[Desktop Entry]
+Type=Application
+Name=photobooth.py
+Comment=Raspberry Pi Photo Booth 
+NoDisplay=false
+Exec=sudo python /home/pi/photobooth.py
+NotShowIn=GNOME;KDE;XFCE;
+Name[en_US]= photobooth.py
+```
+* Enregistrez avec Ctrl+X
+* Eteignez et rallumez le raspberry avec votre bouton, le programme photobooth se lancera automatiquement à chaque démarrage
+
+
 
 
 
@@ -175,8 +207,9 @@ _______
 
 * Mettre lien vers le photobooth.py (explication du code ou tout dans les commentaires ?)
 
-* dire de ne pas utiliser le même écran car on ne voit pas bien sur les côtés
+* dire de ne pas utiliser le même écran car on ne voit pas bien sur les côtés 
 
+* IMPORTANT :dire qu'il faudra un ordinateur sous linux pour lire les photos stockées sur la clé USB
 
 
 
