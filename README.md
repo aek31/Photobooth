@@ -135,7 +135,7 @@ pi@raspberrypi $ nano photobooth.py
 ```
 
 _______
-5. Modifier le texe au moment de la prise de la photo
+6. Modifier le texe au moment de la prise de la photo
 * Dans le code de photobooth.py trouvez la partie suivante :
 ```
 #OVERLAY CAPTIONS AS TEXT
@@ -144,11 +144,11 @@ text = "Chic Guinguette Chic - 30 ans"
 * Remplacez "Chic Guinguette Chic -  30 ans" par le texte que vous voulez, par exemple "Mariage Clémentine et Patrick"
 
 _______
-5. Formater la clé USB
+7. Formater la clé USB en ext4
 * Pour que le programme puisse enregistrer sur votre clé USB il faut qu'elle soit au format EXT4
 * Mettre le tutoriel pour formater la clé USB en ext4
 _______
-5. Adaptez photobooth.py à votre clé USB
+8. Adaptez photobooth.py à votre clé USB
 * Branchez une clé USB au Raspberry Pi
 * Dans le code de photobooth.py trouvez les deux parties suivantes :
 ```
@@ -163,12 +163,12 @@ img = pygame.image.load(os.path.join('/media/pi/cle_photos/Photobooth/',variable
 * Remplacez dans les parties /media/pi/cle_photos/Photobooth/ par le chemin du répertoire de votre clé USB où vous souhaitez enregistrer vos photos
 
 _______
-6. Ecran noir
+9. Ecran noir
 * enlever l'écran noir.jpg du code et voir le résultat pour ensuite expliquer à quoi ca sert, si ca ne sert à rien alors l'enlever du code et ne pas en parler 
 * si ca sert mettre l'epxlication et copier l'écran noir du raspberry dans le github dans Photos
 
 _______
-7. Tester le programme photobooth.py 
+10. Tester le programme photobooth.py 
 * Dans un terminal tapez :
 ```
  pi@raspberrypi $ cd ~
@@ -177,7 +177,7 @@ _______
  * Normalement tout fonctionne :-)
 
 _______
-8. Lancer le logciciel à chaque démarrage
+11. Lancer le logciciel à chaque démarrage
 * Ouvrir un terminal pour créer le fichier suivant :
 ```
 pi@raspberrypi ~ $ sudo nano /etc/xdg/autostart/autostart_photobooth.desktop
