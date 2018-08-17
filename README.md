@@ -212,6 +212,8 @@ Name[en_US]= photobooth.py
 
 * IMPORTANT :dire qu'il faudra un ordinateur sous linux pour lire les photos stockées sur la clé USB
 
+* Trouver une méthode, et l'expliquez, pour pouvoir lire de l'ext4 sous windows, voir par exemple : https://www.commentcamarche.net/forum/affich-13495573-lire-ext4-sous-windows
+
 
 
 * Points d'amélioration : chargement photo par WIFI ou bloothooth, récupérer dernière photo sur son téléphone, récupérer ses photos sous Windows ou Mac os
