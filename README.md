@@ -124,12 +124,48 @@ pi@raspberrypi ~/wittyPi $ sudo ./wittyPi.sh
 
 
 _______
-5. Copiez le logiciel photobooth.py :
+5. Copiez logiciel photobooth.py :
+* Python, PiCamera, Pygame et Gpiozero : bibliothèques déjà installées dans raspbian 
+* Dans Github cliquez sur photobooth.py puiss faite un copier-coller de toute le code
+* On va créer le fichier photobooth.py sur votre raspberry avec l'éditeur de texte nano, ouvrez un terminal 
+```
+pi@raspberrypi $ nano photobooth.py
+> Faites un Ctrl+Shift⨥V dans le terminal => le code est copié
+> Faite un Ctrl+X puis tapez sur "O" ou "Y" => votre fichier est crée
+```
+
 _______
-4. Installer bibliothèques
+5. Modifier le texe au moment de la prise de la photo
+* Dans le code de photobooth.py trouvez la partie suivante :
+```
+#OVERLAY CAPTIONS AS TEXT
+text = "Chic Guinguette Chic - 30 ans"
+```
+* Remplacez "Chic Guinguette Chic -  30 ans" par le texte que vous voulez, par exemple "Mariage Clémentine et Patrick"
+
+_______
+5. Adaptez photobooth.py à votre clé USB
+* Branchez une clé USB au Raspberry Pi
+* Dans le code de photobooth.py trouvez les deux parties suivantes :
+```
+# enregistrement de l'image
+camera.capture(os.path.join('/media/pi/cle_photos/Photobooth/',variable))
+```
+```
+# affiche pendant 5 secondes l'image
+img = pygame.image.load(os.path.join('/media/pi/cle_photos/Photobooth/',variable))
+``` 
+
+* Remplacez dans les parties /media/pi/cle_photos/Photobooth/ par le chemin du répertoire de votre clé USB où vous souhaitez enregistrer vos photos
+
+
+
+
+_______
 7. Lancer le logciciel à chaque démarrage
 8. Modifier le texe au moment de la prise de la photo
 9. Adaptez le programme à votre clé USB
+10. Ecran noir
 
 
 
