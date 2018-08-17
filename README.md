@@ -113,9 +113,9 @@ daemon.sh init.sh syncTime.sh runScript.sh utilities.sh wittyPi wittyPi.sh
 
 ```
 pi@raspberrypi ~/wittyPi $ sudo ./wittyPi.sh 
+> Tapez le chiffre 1
+> Tapez le chiffre 8
 ```
-* Tapez le chiffre 1
-* Tapez le chiffre 8
 * Eteignez le raspberry Pi par l'interface
 * Appuez sur le bouton ON/OFF de la carte Wiring Pi, vérifier que l'heure et la date sont correctes à l'écran
 * Câbler un bouton poussoir sur les broches Switch et GND
