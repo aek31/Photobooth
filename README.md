@@ -54,7 +54,7 @@ Vous voulez faire votre propre photobooth, cette page est faite pour vous !
 |                                  |- Sauvegarder l'heure et la date quand le raspberry est hors tension grâce à sa pile (intérêt : dater les photos)   |         
 | Ecran de PC (Dell + réf)         |Afficher la scène et voir la photo prise pendant quelques secondes     |     
 | Gros bouton rouge                |Un appui est le décompte commence      |       
-| Clé USB  32Go                        |Les photos sont stockées sur une clé USB      | 
+| Clé USB  32Go (format Ext4)                     |Les photos sont stockées sur une clé USB (attention : il faudra un ordinateur sous linux pour pouvoir les lire     | 
 
 
 Méthode  :    
