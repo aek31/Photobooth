@@ -160,7 +160,7 @@ camera.capture(os.path.join('/media/pi/cle_photos/Photobooth/',variable))
 img = pygame.image.load(os.path.join('/media/pi/cle_photos/Photobooth/',variable))
 ``` 
 
-* Remplacez dans les parties /media/pi/cle_photos/Photobooth/ par le chemin du répertoire de votre clé USB où vous souhaitez enregistrer vos photos
+* Remplacez dans ces deux parties '/media/pi/cle_photos/Photobooth/' par le chemin du répertoire de votre clé USB où vous souhaitez enregistrer vos photos
 
 _______
 9. Ecran noir
