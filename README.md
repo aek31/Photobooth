@@ -1,39 +1,3 @@
-# Photobooth
-
-A vérifier :
-* witty pi 2 indique broche 11 utilisée, et le programmme aussi avec le raspberry, normal ? Modifier le schéma électrique et le tutorial partie numérique en conséquence
-* rajouter clé USB sur le schéma électrique
-* pour modifier programme : lancer photobooth, brancher un clavier, taper 'q' sur le clavier, le script se ferme et on a accès au bureau du Raspberry.
-
-
-
-* Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
-* Mettre lien Youtube, 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés, défilement de plusieurs photos prises
-
-
-
-
-
-
-
-
-
-
-
-
-* version raspbian, linux, python, bibliothèques codes, witty py soft
-
-* Mettre lien vers le photobooth.py (explication du code ou tout dans les commentaires ?)
-
-* dire de ne pas utiliser le même écran car on ne voit pas bien sur les côtés 
-
-* IMPORTANT :dire qu'il faudra un ordinateur sous linux pour lire les photos stockées sur la clé USB
-
-* Trouver une méthode, et l'expliquez, pour pouvoir lire de l'ext4 sous windows, voir par exemple : https://www.commentcamarche.net/forum/affich-13495573-lire-ext4-sous-windows
-
-
-
-* Points d'amélioration : chargement photo par WIFI ou bloothooth, récupérer dernière photo sur son téléphone, récupérer ses photos sous Windows ou Mac os
 
 
 
