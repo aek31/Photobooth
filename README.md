@@ -7,36 +7,6 @@ A vérifier :
 
 
 
-
-
-<img src="https://github.com/aek31/Photobooth/blob/master/Photos/trois.JPG" alt="drawing" height="150px"/>           <img src="https://github.com/aek31/Photobooth/blob/master/Photos/deux.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/un.JPG" alt="drawing" height="150px"/>  <img src="https://github.com/aek31/Photobooth/blob/master/Photos/zero.JPG" alt="drawing" height="150px"/> 
-
-
-Vous voulez faire votre propre photobooth, cette page est faite pour vous !
-
-
-
-
-
-| POINTS CLES DU PHOTOBOOTH|     
-| :-------------------------------------  | 
-| Monobloc : juste un câble secteur à brancher et tout fonctionne !    |
-| On récupère les photos en récupérant la clé USB dans le photobooth     |
-| Bonne qualité des photos, voir ici des photos prises en mariage et en anniversaire    |
-| Fonctionne dans une pièce très sombre comme une salle de danse, pas besoin d'éclairage externe    |
-| Personnalisation du texte affiché quand la photo est prise (ex : Chic Guinguette Chic -  30 ans), ce texte ne sera pas visible dans les photos finales    |
-
-| SOMMAIRE |     
-| :-------------------------------------  |  
-| 1- Tutorial d'installation de la partie numérique     |
-| 2- Fabrication de l'éclairage      |
-| 3- Câblage alimentation secteur      |
-| 4- Fabrication de la boîte      |
-| 4- Ma méthode étape par étape      |
-
-
-
-
 * Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
 * Mettre lien Youtube, 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés, défilement de plusieurs photos prises
 
