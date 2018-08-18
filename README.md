@@ -2,43 +2,6 @@
 
 
 
-### Eclairage
-------
-
-* Trois bandeaux à led en forme de "U"  fixés sur une planche
-* Un plexiglas découpé en forme de "U" pour atténuer la lumière des leds
-* La planche avec les bandeaux à leds 20 cm derrère le plexiglas (trop proche ca aveugle, trop loin ca n'éclaire pas assez)
-* Outils utilisés : dremmel avec type de lame pour découpe du plexiglas
-
-#### Des photos visibles même dans une salle très sombre (par exemple une salle de danse) 
-Bandeau à leds            |   Plexiglas découpé et fixé par des vis
-:-------------------------:|:-------------------------:
-<img src="https://github.com/aek31/Photobooth/blob/master/Photos/bandeau_leds.jpg" alt="drawing" height="250px"/> |          <img src="https://github.com/aek31/Photobooth/blob/master/Photos/plexi.jpg" alt="drawing" height="250px"/>
-
-
-Bandeau à l'intérieur du photobooth           |    
-:-------------------------:|
-<img src="https://github.com/aek31/Photobooth/blob/master/Photos/eclairage_dedans.JPG" alt="drawing" height="250px"/> 
-
-
-
-
-
-
-
-### Câblage électrique
-------
-Voir le schéma électrique ici 
-
-#### Partie secteur (partie dangereuse !)
-* Mettre photo vue de dessus avec capôt boîte de dérivation ouverte
-* Attention : prendre bouton et voyant qui supporte 230V et 1A minimum
-* En ouvrant la boîte aucun cuivre avec du 230V ne peut être touché donc utilisation de beaucoup de gaine thermo, boîte de dérivation, ...
-* Photos des différents éléments protecteurs
-
-#### Partie 12V et 5V
-* Règle : pouvoir enlever chaque élément sans dessouder dans la boîte donc des connecteurs et dominos
-* prendre photo domini porte gauche et connecteurs x 2 proche de la boîte
 
 
 ### Fabrication de la boîte
