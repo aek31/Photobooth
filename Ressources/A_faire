@@ -1,8 +1,7 @@
 Wiki du photobooth
 
 
-* Dans le logiciel photobooth.py:
-- ajouter modification de la résolution selon l'écran, mettre liens intéressants qui l'explique aussi
+
 
 
 * pour modifier programme : lancer photobooth, brancher un clavier, taper 'q' sur le clavier, le script se ferme et on a accès au bureau du Raspberry. A mettre en 10. après la récupération des photos ?
