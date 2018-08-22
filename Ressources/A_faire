@@ -16,5 +16,7 @@ A vérifier :
 * Trouver une méthode, et l'expliquez, pour pouvoir lire de l'ext4 sous windows, voir par exemple : https://www.commentcamarche.net/forum/affich-13495573-lire-ext4-sous-windows
 
 * Points d'amélioration : chargement photo par WIFI ou bloothooth, récupérer dernière photo sur son téléphone, récupérer ses photos sous Windows ou Mac os
-
-* Baisser la caméra de quelques degrès vers le bas
+* mieux faire ressortir la caméra
+* Baisser la caméra de quelques degrès vers le bas ou :
+- de temps en temps (tous les 5 minutes ?) faire affiche un message => "avancez-vous pour qu'on vous voit sur tout l'écran :-)", 
+"regardez l'objectif au dessus de l'écran :-)"
