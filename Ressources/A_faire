@@ -1,14 +1,13 @@
 ### Elements à ajouter ou modifier dans le WIKI :
 
 
-* pour modifier programme : lancer photobooth, brancher un clavier, taper 'q' sur le clavier, le script se ferme et on a accès au bureau du Raspberry. A mettre en 10. après la récupération des photos ?
-
 A vérifier :
 * witty pi 2 indique broche 11 utilisée, et le programmme aussi avec le raspberry, normal ? Modifier le schéma électrique et le tutorial partie numérique en conséquence
 * Mettre une seule photo format bandeau (pas très grand en hauteur) avec de gauche à droite : face, arrière 3/4, 3210, intérieur, sur une table avec des gens qui l'utilisent (mariage Pauline)
 * Mettre lien Youtube, 3 phases dans la vidéo : 1-Normal 2-Mode sombre 3-Fonctionnement très simple avec brnachement alim puis on/off puis ON raspberry avec indication flèches et textes superposés, défilement de plusieurs photos prises
 
 * A mettre : version raspbian, linux, python, bibliothèques codes, witty py soft
+
 
 * Améliorer les commentaires du code (notamment clé USB, texte à afficher, ...)**
 * dire de ne pas utiliser le même écran car on ne voit pas bien sur les côtés 
