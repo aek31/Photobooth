@@ -8,7 +8,7 @@
 * Carte UUgear Witty Pi 2
 * Clé USB SanDisk Cruzer Fit SDCZ33-032G-B35 32 Go 
 * Alimentation raspberry Pi 5V
-* Ecran plat Dell ??
+* Ecran plat Dell 
 * Bouton Adafruit Massive Arcade Button with LED - 100mm 
 * Fiche d'alimentation DC mâle, droit Lumberg NES/J 135 Ø extérieur: 3.4 mm Ø intérieur: 1.4 mm
 * Fiche d'alimentation DC embase femelle, verticale Lumberg 1614 17 Ø intérieur: 3.6 mm
