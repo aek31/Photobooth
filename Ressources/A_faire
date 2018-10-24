@@ -10,7 +10,6 @@ A vérifier :
 * Compléter taille et poids dans les caractéristiques
 * Ajouter la référence de l'écran Dell dans le matériel utilisé
 * Modifier schéma, rajouter connection HDMI écran <-> raspberry
-* Rajouter photo carte witty pi
 
 
 * Améliorer les commentaires du code (notamment clé USB, texte à afficher, ...)**
